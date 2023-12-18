@@ -1,1 +1,1 @@
-Repository that contains examples of neural networks that i wrote
+Repository that contains examples of neural networks that i created
